@@ -43,6 +43,14 @@
           ,
           {
             "type": "AnnotationPage",
+            "id": "https://NadegePaquette.github.io/performance-reading-acker/annotations/kathy-acker-performance-reading-1986-canvas-1-transcript.json",
+            "label": {
+              "none": ["Transcript"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
             "id": "https://NadegePaquette.github.io/performance-reading-acker/annotations/kathy-acker-performance-reading-1986-canvas-1-environment.json",
             "label": {
               "none": ["Environment"]
