@@ -23,6 +23,16 @@
         "id": "https://NadegePaquette.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
         "type": "Canvas",
         "duration": 1143.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://NadegePaquette.github.io/performance-reading-acker/annotations/kathy-acker-performance-reading-1986-canvas-1-audience.json",
+            "label": {
+              "none": ["Audience"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://NadegePaquette.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/paintings",
