@@ -1,0 +1,14 @@
+0.876825	8.082043	Noises from the rooms: cracks, soft voices
+53.143246	53.448229	Throbbing sound
+65.792886	68.508540	Knocking sound
+79.981730	80.858555	Sound of a plastic cup or a ball bouncing on a table near the camera
+84.251488	84.899577	Metallic sound of an object bouncing
+125.538530	126.491601	Metallic sound
+129.960780	131.409448	Soft knocking on a wooden table
+134.535521	134.535521	Short metallic sound
+177.498152	177.498152	Hollow sound
+741.743812	741.743812	Throbbing sound
+766.555013	766.555013	Subtle knocking sound
+823.583744	823.583744	Metallic sound
+850.633475	854.811377	Squeaking sound
+1030.096874	1030.096874	Click

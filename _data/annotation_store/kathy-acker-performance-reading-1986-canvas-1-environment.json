@@ -1,0 +1,316 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://NadegePaquette.github.io/performance-reading-acker/annotations/kathy-acker-performance-reading-1986-canvas-1-environment.json",
+  "type": "AnnotationPage",
+  "label": "Environment",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-environment-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Noises from the rooms: cracks, soft voices",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://NadegePaquette.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "0.876825,8.082043"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-environment-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Throbbing sound",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://NadegePaquette.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "53.143246,53.448229"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-environment-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Knocking sound",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://NadegePaquette.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "65.792886,68.508540"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-environment-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Sound of a plastic cup or a ball bouncing on a table near the camera",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://NadegePaquette.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "79.981730,80.858555"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-environment-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Metallic sound of an object bouncing",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://NadegePaquette.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "84.251488,84.899577"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-environment-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Metallic sound",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://NadegePaquette.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "125.538530,126.491601"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-environment-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Soft knocking on a wooden table",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://NadegePaquette.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "129.960780,131.409448"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-environment-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Short metallic sound",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://NadegePaquette.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "134.535521"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-environment-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Hollow sound",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://NadegePaquette.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "177.498152"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-environment-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Throbbing sound",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://NadegePaquette.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "741.743812"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-environment-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Subtle knocking sound",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://NadegePaquette.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "766.555013"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-environment-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Metallic sound",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://NadegePaquette.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "823.583744"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-environment-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Squeaking sound",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://NadegePaquette.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "850.633475,854.811377"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-environment-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Click",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://NadegePaquette.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1030.096874"
+        }
+      }
+    }
+  ]
+}
