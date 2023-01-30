@@ -4,7 +4,7 @@
 
 layout: home
 ---
-# Formulating Affinities and Defiances Through Discomfort
+<p style="font-family:'courier'">Formulating Affinities and Defiances Through Discomfort</p>
 
 ![Kathy Acker reading](ezgif.com-gif-maker.gif)![](ezgif.com-maker.gif)
 
