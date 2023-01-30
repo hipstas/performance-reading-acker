@@ -1,0 +1,228 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://NadegePaquette.github.io/performance-reading-acker/annotations/kathy-acker-performance-reading-1986-canvas-1-speaker.json",
+  "type": "AnnotationPage",
+  "label": "Speaker",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-speaker-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Acker speaking away from the microphone: \"This is Thivai speaking and it's just like of course a female it's not a male woman (inaudible) female (inaudible) female (inaudible).\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://NadegePaquette.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "13.953740,20.701107"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-speaker-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "In the microphone: \"What?\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://NadegePaquette.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "21.573216,22.307623"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-speaker-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"A what?\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://NadegePaquette.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "23.592836,24.419044"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-speaker-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"Who?\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://NadegePaquette.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "25.291153,25.612456"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-speaker-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"A nice fiction?\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://NadegePaquette.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "27.861579,28.825488"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-speaker-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"Oh, thank you sir, yeah.\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://NadegePaquette.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "30.864467"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-speaker-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"All right, this's called 'Male': M.A.L.E.\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://NadegePaquette.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "33.369634,36.215462"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-speaker-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"This is Thivai's talking.\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://NadegePaquette.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "36.858069,37.959680"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-speaker-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"And just to portrait Thivai so not worry about that now it's all environmental.\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://NadegePaquette.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "40.117001,44.890649"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-speaker-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"Thank you\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://NadegePaquette.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1115.357962"
+        }
+      }
+    }
+  ]
+}

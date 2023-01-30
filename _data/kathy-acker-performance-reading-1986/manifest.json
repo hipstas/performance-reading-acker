@@ -35,6 +35,14 @@
           ,
           {
             "type": "AnnotationPage",
+            "id": "https://NadegePaquette.github.io/performance-reading-acker/annotations/kathy-acker-performance-reading-1986-canvas-1-speaker.json",
+            "label": {
+              "none": ["Speaker"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
             "id": "https://NadegePaquette.github.io/performance-reading-acker/annotations/kathy-acker-performance-reading-1986-canvas-1-environment.json",
             "label": {
               "none": ["Environment"]
