@@ -7,7 +7,7 @@ permalink: situating-kathy-acker-s-performance-reading
 using HTML or markdown.  Do not modify this file above this line -->
 
 <p style="font-family:'courier'; font-size: 2em">CONTEXT</p>
-<p style="font-family:'courier'; font-size: +2"><i>Les Foufounes Électriques</i></p>
+<p style="font-family:'courier'"><font-size= "+2"><i>Les Foufounes Électriques</i><font/></p>
 <p style="font-family:'letter gothic std'">I want to situate Acker’s performance within Montreal’s artistic scene in the 80s, within feminist debates about pornography, and within punk and avant-garde performances. Acker’s performance was part of the Tuesday series at Les Foufounes Électriques (also known as “Foufs”) presented by the short-lived magazine <i>L’Oeil rechargeable: L’organe de la nouvelle culture</i> and <i>Ultimatum</i>. During the 1980s and 1990s, the bar situated in the Faubourg Saint-Laurent neighborhood was considered a major part of Montreal’s underground scene where beatniks, hippies and punks met to attend music shows and poetry readings (Palardy 16). It thus was an appropriate location to welcome Acker and her work which were characterized as shocking and scandalous by a Radio-Canada report announcing the event (“Reportage Radio Canada”). Alan Lord, representing Les Foufounes Électriques, was interviewed and described Acker as the “priestess of the new Beat Generation [and] of the punk literatures.”</p>
 
 <p style="font-family:'courier'; font-size: 1em"><i>Bilingualism and the “Two Solitudes”</i></p>
