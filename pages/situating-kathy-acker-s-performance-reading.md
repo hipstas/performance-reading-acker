@@ -6,6 +6,8 @@ permalink: situating-kathy-acker-s-performance-reading
 <!-- Add an essay or interpretive material below this line,
 using HTML or markdown.  Do not modify this file above this line -->
 
+<img src="https://github.com/NadegePaquette/performance-reading-acker/blob/gh-pages/Screenshot%202023-01-31%20at%204.45.32%20PM.png" />
+
 <p style="font-family:'courier'; font-size: 2em">CONTEXT</p>
 <p style="font-family:'courier'; font-size: 1em"><i>Les Foufounes Électriques</i><font/></p>
 <p style="font-family:'letter gothic std'">I want to situate Acker’s performance within Montreal’s artistic scene in the 80s, within feminist debates about pornography, and within punk and avant-garde performances. Acker’s performance was part of the Tuesday series at Les Foufounes Électriques (also known as “Foufs”) presented by the short-lived magazine <i>L’Oeil rechargeable: L’organe de la nouvelle culture</i> and <i>Ultimatum</i>. During the 1980s and 1990s, the bar situated in the Faubourg Saint-Laurent neighborhood was considered a major part of Montreal’s underground scene where beatniks, hippies and punks met to attend music shows and poetry readings (Palardy 16). It thus was an appropriate location to welcome Acker and her work which were characterized as shocking and scandalous by a Radio-Canada report announcing the event (“Reportage Radio Canada”). Alan Lord, representing Les Foufounes Électriques, was interviewed and described Acker as the “priestess of the new Beat Generation [and] of the punk literatures.”</p>
@@ -73,22 +75,41 @@ using HTML or markdown.  Do not modify this file above this line -->
 
 <p style="font-family:'courier'; font-size: 2em">Works Cited</p>
 <p style="font-family:'letter gothic std'">Acker, Kathy. Empire of the Senseless. 1988. Grove Press, 2018.<br>
+<br>
 Acker, Kathy. Don Quixote. Grove Press, 1986.<br> 
-Borowska, Emilia. “‘Beneath the Paving Stones’:” The Politics of Kathy Acker, Edinburgh University Press, 2019, pp. 160–201.<br>  
+<br>
+Borowska, Emilia. “‘Beneath the Paving Stones’:” The Politics of Kathy Acker, Edinburgh University Press, 2019, pp. 160–201.<br> 
+<br>
 Brecht, Bertolt. Théâtre Épique, Théâtre Dialectique: Écrits Sur Le Théâtre. Translated by J. Tailleur et al., L’Arche, 1999.<br>
+<br>
 Butler, Judith. “Rethinking Vulnerability and Resistance.” Vulnerability in Resistance, edited by Judith Butler et al., Duke UP, 2016, pp. 12–27.<br>
-Butler, Judith. “Subversive Bodily Acts.” Gender Trouble, 1990, 2nd Edition, Routledge, 1999, pp. 101–80.<br>  
+<br>
+Butler, Judith. “Subversive Bodily Acts.” Gender Trouble, 1990, 2nd Edition, Routledge, 1999, pp. 101–80.<br> 
+<br>
 Chion, Michel. L’audio-Vision : Son et Image Au Cinéma. 4th Edition, Armand Colin, 2017.<br>  
+<br>
 ---. Un Art Sonore, Le Cinéma : Histoire Esthétique, Poétique. Cahiers du cinéma, 2003.<br>  
-Eidsheim, Nina Sun. “Introduction: The Acousmatic Question: Who Is This?” The Race of Sound, Duke University Press, 2019, pp. 1–38.<br>  
+<br>
+Eidsheim, Nina Sun. “Introduction: The Acousmatic Question: Who Is This?” The Race of Sound, Duke University Press, 2019, pp. 1–38.<br>
+<br>
 Ioanes, Anna. “Shock and Consent in a Feminist Avant-Garde Kathleen Hanna Reads Kathy Acker.” Signs, vol. 42, no. 1, 2016, pp. 175–97.<br> 
-Kristeva, Julia. Powers of Horror: An Essay on Abjection. Translated by Leon S. Roudiez, Columbia University Press, 1982.<br>  
-MacArthur, Marit J. “Monotony, the Churches of Poetry Reading, and Sound Studies.” PMLA, vol. 131, no. 1, 2016, pp. 38–63.<br>  
-MacKinnon, Catharine A. “Pornography as Defemation and Discrimination.” Boston University Law Review, vol. 71, no. 5, 1991, pp. 793–818.<br>  
-Ngai, Sianne. “Stupimity.” Ugly Feelings, Harvard University Press, 2009, pp. 248–97.<br>  
+<br>
+Kristeva, Julia. Powers of Horror: An Essay on Abjection. Translated by Leon S. Roudiez, Columbia University Press, 1982.<br> 
+<br>
+MacArthur, Marit J. “Monotony, the Churches of Poetry Reading, and Sound Studies.” PMLA, vol. 131, no. 1, 2016, pp. 38–63.<br>
+<br>
+MacKinnon, Catharine A. “Pornography as Defemation and Discrimination.” Boston University Law Review, vol. 71, no. 5, 1991, pp. 793–818.<br>
+<br>
+Ngai, Sianne. “Stupimity.” Ugly Feelings, Harvard University Press, 2009, pp. 248–97.<br>
+<br>
 Palardy, Marianne. Les Foufounes Électriques : de l’underground à l’overground, étude de cas d’une sous-culture urbaine de Montréal. Université du Québec à Montréal, Aug. 2008.<br> 
-Riley, Shannon Rose. “Kathy Goes to Haiti: Sex, Race, and Occupation in Kathy Acker’s Voodoo Travel Narrative.” Kathy Acker and Transnationalism, Polina Mackay and Kathryn Nicol, Cambridge Scholars, 2009, pp. 29–50.<br> 
-Robinson, Dylan. Hungry listening : resonant theory for indigenous sound studies. University of Minnesota Press, 2020.<br>  
-Royer, Jean. “La Vie Littéraire.” Le Devoir, Nov. 1986, p. C-1 to C – 10. Bibliothèque des Archives Nationales du Québec, Patrimoine québécois.<br> 
-Sousa, Laryssa Paulino de Queiroz, and Rosane Rocha Pessoa. “Humans, Nonhuman Others, Matter and Language: A Discussion from Posthumanist and Decolonial Perspectives.” Trabalhos Em Linguística Aplicada, vol. 58, no. 2, 2019, pp. 520–43.<br> 
+<br>
+Riley, Shannon Rose. “Kathy Goes to Haiti: Sex, Race, and Occupation in Kathy Acker’s Voodoo Travel Narrative.” Kathy Acker and Transnationalism, Polina Mackay and Kathryn Nicol, Cambridge Scholars, 2009, pp. 29–50.<br>
+<br>
+Robinson, Dylan. Hungry listening : resonant theory for indigenous sound studies. University of Minnesota Press, 2020.<br>
+<br>  
+Royer, Jean. “La Vie Littéraire.” Le Devoir, Nov. 1986, p. C-1 to C – 10. Bibliothèque des Archives Nationales du Québec, Patrimoine québécois.<br>
+<br>
+Sousa, Laryssa Paulino de Queiroz, and Rosane Rocha Pessoa. “Humans, Nonhuman Others, Matter and Language: A Discussion from Posthumanist and Decolonial Perspectives.” Trabalhos Em Linguística Aplicada, vol. 58, no. 2, 2019, pp. 520–43.<br>
+<br>
 Turner, Michael. Three Readings: Camera, Tape and Sound (Kathy Acker, Steve McCaffery/BpNicol, and Kevin Davies, as Introduced by George Bowering). 2011.</p>
