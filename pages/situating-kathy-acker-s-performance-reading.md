@@ -37,6 +37,8 @@ using HTML or markdown.  Do not modify this file above this line -->
 <br>
 
 <p style="font-family:'courier'; font-size: 2em">ANALYSIS</p>
+<p style="font-family:'letter gothic std'">Here I would like to offer an analysis both of Acker’s performance and of the audience’s response to it. I am interested in “aurality,” how the audience listens, and in “orality,” how the audience speaks back to what I call a <i>performance reading</i> (MacArthur 43). I attempt to listen to the forms of listening and sounding of the crowd. Such listening also means feeling for embodiment and looking for situatedness. While I can situate Acker’s voice in a female queer white body located at the confluent of punk, feminist, avant-garde, and academic streams, I can only ask questions about the position of the members of the audience.</p>
+
 <p style="font-family:'courier'; font-size: 1em"><i>Performance Reading</i></p>
 <p style="font-family:'letter gothic std'">In this recording, Acker is reading words from a page. She is reading excerpts in prose of her then upcoming novel <i>Empire of the Senseless</i>. I would like to frame her reading as a <i>performance reading</i> which implies a written text, a style of reading (or delivery), a speaker, and an audience present at the same time in the same place.</p>
 
@@ -46,7 +48,7 @@ using HTML or markdown.  Do not modify this file above this line -->
 <br>
 
 <p style="font-family:'courier'; font-size: 2em">LISTENING SPEAKER AND TALKING AUDIENCE</p>
-<p style="font-family:'letter gothic std'">Here I would like to offer an analysis both of Acker’s performance and of the audience’s response to it. I am interested in “aurality,” how the audience listens, and in “orality,” how the audience speaks back to the performance reading (MacArthur 43). I attempt to listen to the forms of listening and sounding of the crowd. Such listening also means feeling for embodiment and looking for situatedness. While I can situate Acker’s voice in a female queer white body located at the confluent of punk, feminist, avant-garde, and academic streams, I can only ask questions about the position of the members of the audience.</p>
+
 <br>
 
 <p style="font-family:'courier'; font-size: 1em"><i>Gender Performance</i></p>
@@ -72,25 +74,44 @@ using HTML or markdown.  Do not modify this file above this line -->
 <p style="font-family:'courier'; font-size: 2em">CONCLUSION</p>
 <p style="font-family:'letter gothic std'">The video recording of Acker’s performance reading at the underground venue Foufounes Électriques in 1986 in Montreal captures a moment of interaction between the author and her audience. Such event brings the individual and silent practice of reading literature to the stage of a bar where literature is performed while words and noises are shared. Annotating the audio of this recording brought me to face the limits of the practice of causal listening: naming sounds coming from invisible sources demands that I speculate about their cause. These speculations need to be mistrusted, otherwise they will fix the sounds in a name and the name in a certain meaning. While situating sounds remained a fraught endeavor, listening for acousmatic sounds was an exercise in situating my own position as a listener. In this project, I have put my own position in dialogue with the discourse of the speaker and the sounds of the crowd to understand their interaction with each other and with my own knowledge production. I have read Acker’s performance as being, in part, a gender performance where gender dynamics are negotiated with her audience. Acker’s vulnerability to the crowd’s comments and interruptions is mirrored by the audience’s vulnerability to the violent depictions in her texts. Audience and speaker are engaged in a mutual exchange where they might find recognition, pleasure, and new ways of negotiating consent.</p>
 
-<p sytle="font-family:'courier'; font-size: 2em">Works Cited</p>
+<p style="font-family:'courier'; font-size: 2em">Works Cited</p>
 <p style="font-family:'letter gothic std'">Acker, Kathy. Empire of the Senseless. 1988. Grove Press, 2018.
-Acker, Kathy. Don Quixote. Grove Press, 1986. WorldCat.org.
-Borowska, Emilia. “‘Beneath the Paving Stones’:” The Politics of Kathy Acker, Edinburgh University Press, 2019, pp. 160–201, http://www.jstor.org.lib-ezproxy.concordia.ca/stable/10.3366/j.ctvnjbfxv.10. JSTOR.
+  
+Acker, Kathy. Don Quixote. Grove Press, 1986.
+  
+Borowska, Emilia. “‘Beneath the Paving Stones’:” The Politics of Kathy Acker, Edinburgh University Press, 2019, pp. 160–201.
+  
 Brecht, Bertolt. Théâtre Épique, Théâtre Dialectique: Écrits Sur Le Théâtre. Translated by J. Tailleur et al., L’Arche, 1999.
+  
 Butler, Judith. “Rethinking Vulnerability and Resistance.” Vulnerability in Resistance, edited by Judith Butler et al., Duke UP, 2016, pp. 12–27.
+  
 Butler, Judith. “Subversive Bodily Acts.” Gender Trouble, 1990, 2nd Edition, Routledge, 1999, pp. 101–80.
+  
 Chion, Michel. L’audio-Vision : Son et Image Au Cinéma. 4th Edition, Armand Colin, 2017.
+  
 ---. Un Art Sonore, Le Cinéma : Histoire Esthétique, Poétique. Cahiers du cinéma, 2003.
-Eidsheim, Nina Sun. “Introduction: The Acousmatic Question: Who Is This?” The Race of Sound, Duke University Press, 2019, pp. 1–38. JSTOR, https://doi.org/10.2307/j.ctv11hpntq.4.
-Ioanes, Anna. “Shock and Consent in a Feminist Avant-Garde Kathleen Hanna Reads Kathy Acker.” Signs, vol. 42, no. 1, 2016, pp. 175–97. WorldCat.org.
-Kristeva, Julia. Powers of Horror: An Essay on Abjection. Translated by Leon S. Roudiez, Columbia University Press, 1982, http://bvbr.bib-bvb.de:8991/F?func=service&doc_library=BVB01&doc_number=005717969&line_number=0001&func_code=DB_RECORDS&service_type=MEDIA. WorldCat.org.
-MacArthur, Marit J. “Monotony, the Churches of Poetry Reading, and Sound Studies.” PMLA, vol. 131, no. 1, 2016, pp. 38–63. WorldCat.org.
+  
+Eidsheim, Nina Sun. “Introduction: The Acousmatic Question: Who Is This?” The Race of Sound, Duke University Press, 2019, pp. 1–38.
+  
+Ioanes, Anna. “Shock and Consent in a Feminist Avant-Garde Kathleen Hanna Reads Kathy Acker.” Signs, vol. 42, no. 1, 2016, pp. 175–97.
+  
+Kristeva, Julia. Powers of Horror: An Essay on Abjection. Translated by Leon S. Roudiez, Columbia University Press, 1982.
+  
+MacArthur, Marit J. “Monotony, the Churches of Poetry Reading, and Sound Studies.” PMLA, vol. 131, no. 1, 2016, pp. 38–63.
+  
 MacKinnon, Catharine A. “Pornography as Defemation and Discrimination.” Boston University Law Review, vol. 71, no. 5, 1991, pp. 793–818.
-Ngai, Sianne. “Stupimity.” Ugly Feelings, Harvard University Press, 2009, pp. 248–97, https://doi.org/10.4159/9780674041523-007.
+  
+Ngai, Sianne. “Stupimity.” Ugly Feelings, Harvard University Press, 2009, pp. 248–97.
+  
 Palardy, Marianne. Les Foufounes Électriques : de l’underground à l’overground, étude de cas d’une sous-culture urbaine de Montréal. Université du Québec à Montréal, Aug. 2008.
-Riley, Shannon Rose. “Kathy Goes to Haiti: Sex, Race, and Occupation in Kathy Acker’s Voodoo Travel Narrative.” Kathy Acker and Transnationalism, Polina Mackay and Kathryn Nicol, Cambridge Scholars, 2009, pp. 29–50. www.academia.edu, https://www.academia.edu/1378328/_Kathy_Goes_to_Haiti_Sex_Race_and_Occupation_in_Kathy_Ackers_Voodoo_Travel_Narrative.
+  
+Riley, Shannon Rose. “Kathy Goes to Haiti: Sex, Race, and Occupation in Kathy Acker’s Voodoo Travel Narrative.” Kathy Acker and Transnationalism, Polina Mackay and Kathryn Nicol, Cambridge Scholars, 2009, pp. 29–50. 
+  
 Robinson, Dylan. Hungry listening : resonant theory for indigenous sound studies. University of Minnesota Press, 2020.
+  
 Royer, Jean. “La Vie Littéraire.” Le Devoir, Nov. 1986, p. C-1 to C – 10. Bibliothèque des Archives Nationales du Québec, Patrimoine québécois.
-Sousa, Laryssa Paulino de Queiroz, and Rosane Rocha Pessoa. “Humans, Nonhuman Others, Matter and Language: A Discussion from Posthumanist and Decolonial Perspectives.” Trabalhos Em Linguística Aplicada, vol. 58, no. 2, 2019, pp. 520–43, https://doi.org/10.1590/010318135373715822019. WorldCat.org.
+  
+Sousa, Laryssa Paulino de Queiroz, and Rosane Rocha Pessoa. “Humans, Nonhuman Others, Matter and Language: A Discussion from Posthumanist and Decolonial Perspectives.” Trabalhos Em Linguística Aplicada, vol. 58, no. 2, 2019, pp. 520–43.
+  
 Turner, Michael. Three Readings: Camera, Tape and Sound (Kathy Acker, Steve McCaffery/BpNicol, and Kevin Davies, as Introduced by George Bowering). 2011.</p>
 
