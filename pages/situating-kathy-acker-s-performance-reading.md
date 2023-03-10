@@ -9,7 +9,7 @@ using HTML or markdown.  Do not modify this file above this line -->
 <p style="font-family:'courier'; font-size: 2em" align=right>Formulating Affinities and Defiances Through Discomfort</p>
 <p style="font-family:'courier'; font-size: 1em" align=right><i>Nadège Paquette</i></p>
 
-<img src="https://github.com/NadegePaquette/performance-reading-acker/blob/gh-pages/Screenshot%202023-01-31%20at%204.45.32%20PM.png" alt="Tuesday series">
+<img src="Tuesday Series.png" alt="Tuesday series">
 
 <p style="font-family:'courier'; font-size: 2em">CONTEXT</p>
 <p style="font-family:'courier'; font-size: 1em"><i>Les Foufounes Électriques</i></p>
@@ -40,7 +40,7 @@ using HTML or markdown.  Do not modify this file above this line -->
 
 <p style="font-family:'letter gothic std'">Kristeva, in <i>The Powers of Horror: An Essay on Abjection</i> writes: “The abject is not an ob-ject facing me, which I name or imagine.”(1) The abject is unnameable, and thus maybe my practice of naming my position would have seemed limiting to Acker. Her own practice seems to be rather to name one thing only to also name its correlative, that is its opposite according to gender or social norms. In <i>Don Quixote</i>, for example, the protagonist by naming herself is able “to become a female-male or a night-knight” (Acker 10). While I find that Acker’s non-oppositional views echoes Indigenous worldviews that have never adhered to Western binary thinking, Indigenous and post-colonial thinkers teach me that certain things need to be named unambiguously (Sousa and Pessoa 522). Indeed, I cannot confuse my whiteness with Indigeneity and Blackness, nor my privileges with their oppression. The technique of conflation is however one that Acker uses in <i>Empire of the Senseless</i> where the Algerian Revolution, May 1968 in France and the Haitian Revolution are made to cohabit in the same space-time (Borowska 160). Such conflation erases local forms of resistance to Western colonization and imperialism and recenters a white author’s perspective. Indeed, Acker’s interest for the Haitian and Algerian revolutions, and for Haiti in particular (Riley 29), is marked by her tendency to appropriate. Acker’s practice of appropriating texts from the European literary canon by plagiarizing them becomes problematic when applied to Haitian and Algerian cultural elements. In this situation, her appropriation is not disruptive of social and political norms but rather reinforces racist imaginaries and structures of white privilege.</p>
 <br>
-<img src="https://github.com/NadegePaquette/performance-reading-acker/blob/gh-pages/Screenshot%202023-01-31%20at%204.45.56%20PM.png" />
+<img src="Medium full shot of Acker reading.png" alt="Medium full shot of Acker reading">
 <p style="font-family:'courier'; font-size: 2em">ANALYSIS</p>
 <p style="font-family:'letter gothic std'">Here I would like to offer an analysis both of Acker’s performance and of the audience’s response to it. I am interested in “aurality,” how the audience listens, and in “orality,” how the audience speaks back to what I call a <i>performance reading</i> (MacArthur 43). I attempt to listen to the forms of listening and sounding of the crowd. Such listening also means feeling for embodiment and looking for situatedness. While I can situate Acker’s voice in a female queer white body located at the confluent of punk, feminist, avant-garde, and academic streams, I can only ask questions about the position of the members of the audience.</p>
 
