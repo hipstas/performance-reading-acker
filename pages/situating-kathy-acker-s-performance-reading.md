@@ -79,9 +79,9 @@ using HTML or markdown.  Do not modify this file above this line -->
 <p style="font-family:'courier'; font-size: 2em">Works Cited</p>
 <p>Acker, Kathy. <i>Empire of the Senseless</i>. 1988. Grove Press, 2018.<br>
 <br>
-Acker, Kathy. <i>Don Quixote. Grove Press</i>, 1986.<br> 
+Acker, Kathy. <i>Don Quixote</i>. Grove Press, 1986.<br> 
 <br>
-Borowska, Emilia. “‘Beneath the Paving Stones’:” <i>The Politics of Kathy Acker</i>, Edinburgh University Press, 2019, pp. 160–201.<br> 
+Borowska, Emilia. “‘Beneath the Paving Stones’: The Politics of Proximity in Empire of the Senseless and the Situationist Avant-Garde.” <i>The Politics of Kathy Acker</i>, Edinburgh University Press, 2019, pp. 160–201.<br> 
 <br>
 Brecht, Bertolt. <i>Théâtre Épique, Théâtre Dialectique: Écrits Sur Le Théâtre</i>. Translated by J. Tailleur et al., L’Arche, 1999.<br>
 <br>
