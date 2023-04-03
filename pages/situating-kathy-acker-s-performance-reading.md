@@ -9,7 +9,7 @@ using HTML or markdown.  Do not modify this file above this line -->
 <p style="font-family:'courier'; font-size: 2em" align=right>Formulating Affinities and Defiances Through Discomfort</p>
 <p style="font-family:'courier'; font-size: 1em" align=right><i>Nadège Paquette</i></p>
 
-<img src="Tuesday Series.png" alt="Tuesday series">
+<img src="Tuesday Series.png" alt="Tuesday series" width="400"/>
 
 <p style="font-family:'courier'; font-size: 2em">CONTEXT</p>
 <p style="font-family:'courier'; font-size: 1em"><i>Les Foufounes Électriques</i></p>
