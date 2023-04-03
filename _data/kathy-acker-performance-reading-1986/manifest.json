@@ -67,7 +67,9 @@
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
-                  "id": "https://archive.org/download/kathy-acker-foufs-nov-4-1986-2/KATHY%20ACKER%20FOUFS%20NOV%204%201986%202.mov",
+                  "id": "https://ia601506.us.archive.org/15/items/kathy-acker-foufs-nov-4-1986-2/KATHY%20ACKER%20FOUFS%20NOV%204%201986%202.mp4",
+                    "type": "Video",
+                    "format": "video/mp4",
                     "duration": 1143.0
                 },
                 "target": "https://NadegePaquette.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas"
