@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://NadegePaquette.github.io/performance-reading-acker/annotations/kathy-acker-performance-reading-1986-canvas-1-audience.json",
+  "id": "https://hipstas.github.io/performance-reading-acker/annotations/kathy-acker-performance-reading-1986-canvas-1-audience.json",
   "type": "AnnotationPage",
   "label": "Audience",
   "items": [
@@ -19,7 +19,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://NadegePaquette.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
+        "source": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "8.319670"
@@ -41,7 +41,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://NadegePaquette.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
+        "source": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "9.508195,11.588112"
@@ -63,7 +63,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://NadegePaquette.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
+        "source": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "20.747008,23.638736"
@@ -85,7 +85,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://NadegePaquette.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
+        "source": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "24.464945,24.832148"
@@ -107,7 +107,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://NadegePaquette.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
+        "source": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "25.841958,27.586176"
@@ -129,7 +129,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://NadegePaquette.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
+        "source": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "28.641886,29.468095"
@@ -151,7 +151,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://NadegePaquette.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
+        "source": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "28.963190,29.422194"
@@ -173,7 +173,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://NadegePaquette.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
+        "source": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "31.212312,37.362974"
@@ -195,7 +195,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://NadegePaquette.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
+        "source": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "75.254497,76.055076"
@@ -217,7 +217,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://NadegePaquette.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
+        "source": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "119.438874,120.125086"
@@ -239,7 +239,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://NadegePaquette.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
+        "source": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "136.327295,139.224631"
@@ -261,7 +261,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://NadegePaquette.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
+        "source": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "142.274459,149.136571"
@@ -283,7 +283,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://NadegePaquette.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
+        "source": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "158.133562,160.497179"
@@ -305,7 +305,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://NadegePaquette.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
+        "source": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "184.541022"
@@ -327,7 +327,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://NadegePaquette.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
+        "source": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "189.393629"
@@ -349,7 +349,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://NadegePaquette.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
+        "source": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "196.377756"
@@ -371,7 +371,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://NadegePaquette.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
+        "source": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "213.293856"
@@ -393,7 +393,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://NadegePaquette.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
+        "source": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "266.430512"
@@ -415,7 +415,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://NadegePaquette.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
+        "source": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "282.802394"
@@ -437,7 +437,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://NadegePaquette.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
+        "source": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "288.743437"
@@ -459,7 +459,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://NadegePaquette.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
+        "source": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "295.954321"
@@ -481,7 +481,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://NadegePaquette.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
+        "source": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "302.818563"
@@ -503,7 +503,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://NadegePaquette.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
+        "source": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "307.625820"
@@ -525,7 +525,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://NadegePaquette.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
+        "source": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "318.371530"
@@ -547,7 +547,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://NadegePaquette.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
+        "source": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "366.035929"
@@ -569,7 +569,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://NadegePaquette.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
+        "source": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "422.271757"
@@ -591,7 +591,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://NadegePaquette.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
+        "source": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "585.128899"
@@ -613,7 +613,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://NadegePaquette.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
+        "source": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "656.077278"
@@ -635,7 +635,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://NadegePaquette.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
+        "source": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "704.588730"
@@ -657,7 +657,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://NadegePaquette.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
+        "source": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "753.100183"
@@ -679,7 +679,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://NadegePaquette.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
+        "source": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "773.097270"
@@ -701,7 +701,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://NadegePaquette.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
+        "source": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "847.944433"
@@ -723,7 +723,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://NadegePaquette.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
+        "source": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "891.976972"
@@ -745,7 +745,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://NadegePaquette.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
+        "source": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "1019.357697"
@@ -767,7 +767,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://NadegePaquette.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
+        "source": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "1030.590513"
@@ -789,7 +789,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://NadegePaquette.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
+        "source": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "1045.310305"
@@ -811,7 +811,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://NadegePaquette.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
+        "source": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "1050.525725"
@@ -833,7 +833,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://NadegePaquette.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
+        "source": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "1101.001915"
@@ -855,7 +855,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://NadegePaquette.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
+        "source": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "1115.432037,1140.333343"
