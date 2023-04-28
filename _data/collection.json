@@ -2,7 +2,7 @@
     "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://example.com/collection.json",
     "type": "Collection",
-    "label": { "en": [ "A Performance Reading by Kathy Acker" ] },
+    "label": { "en": [ "Formulating Affinities and Defiances through Discomfort" ] },
     "summary": { "en": [ "This project examines a video recording of a performance reading given by Kathy Acker at the Montreal bar Foufounes Électriques in 1986. " ] },
     "items": [
     ]
